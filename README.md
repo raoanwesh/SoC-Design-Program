@@ -1152,13 +1152,4 @@ Hold Slack
 Setup Slack
 ![image](https://github.com/user-attachments/assets/d8145ffc-3f21-4449-b7c0-bb27c241cf49)
 
-## Certificate of Completion
-
-![image](https://github.com/AnoushkaTripathi/NASSCOM-VSD-SoC-design-Program/assets/98522737/094094c7-9bcf-422c-8466-2e94da28d331)
-
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://663d078622096c25eed3ceff--lighthearted-pasca-dc5929.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoushkastripathi/)
 
